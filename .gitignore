@@ -1,0 +1,29 @@
+# Keil / ARM build outputs
+Objects/
+Listings/
+
+# Local IDE and debugger state
+.vscode/
+*.uvguix.*
+*.uvgui.*
+*.uvgui_* 
+*.bak
+*.dep
+*.d
+*.crf
+*.o
+*.obj
+*.lst
+*.map
+*.lnp
+*.axf
+*.elf
+*.hex
+*.bin
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+Thumbs.db
+Desktop.ini
